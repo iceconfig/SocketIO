@@ -1,0 +1,12 @@
+{
+  "name": "socketIO",
+  "version": "0.0.1",
+  "description": "study socket.io app",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "socket.io-client": "^1.4.8"
+  },
+  "devDependencies": {},
+  "overrides": {}
+}
